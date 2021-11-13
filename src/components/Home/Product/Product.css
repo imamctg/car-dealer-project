@@ -1,0 +1,11 @@
+.card:hover{
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.card img:hover{
+padding: 10px;
+transition: 0.6s;
+transform:scale(1.5,1.5);
+}
+

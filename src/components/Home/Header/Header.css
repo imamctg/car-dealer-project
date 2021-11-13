@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(28, 16, 73);
+}
+.brand{
+    font-size: 30px;
+}
+.menu a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    
+    
+}
+.menu a:hover{
+    color: red;
+    
+}
+
+.logout-button{
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid whitesmoke;
+    padding: 4px;
+}
+ .user-name{
+     color: green;
+     font-size: 15px;
+     font-weight: bold;
+     margin-right: 2px;
+ }

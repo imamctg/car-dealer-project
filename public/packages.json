@@ -1,0 +1,98 @@
+[
+    {
+        "id": 101,
+        "name": "Aston Martin",
+        "description": "This list of car brands and their origins will give you more insight into the culture and history of these companies.",
+        "fullDesc": "The name Aston Martin is derived partly from the name of its founder, Lionel Martin, and partly for a stretch of road in Hertfordshire, England, used for racing, called the Aston Hillclimb.",
+        "price": 8,
+        "img": "https://i.ibb.co/G2Cd1gw/car-img12.png"
+    },
+    {
+        "id": 102,
+        "name": "BMW",
+        "description": "BMW started its operation in 1912 and was formed by the merger of three German companies.",
+        "fullDesc": "The acronym BMW stands for Bayerische Motoren Werke GmnH, which roughly translates to Bavarian Engine Works Company.",
+        "price": 7,
+        "img": "https://i.ibb.co/QpQygF3/car-img11.png"
+    },
+    {
+        "id": 103,
+        "name": "Ferrari",
+        "description": "Ferrari is derived from the word meaning blacksmith.",
+        "fullDesc": "The luxury car brand Ferrari is named after its Italian founder, Enzo Ferrari, who was an official Alto race driver. In 1939, he quit racing to build his own company.",
+        "price": 12,
+        "img": "https://i.ibb.co/89P6wDq/car-img10.png"
+    },
+    {
+        "id": 104,
+        "name": "Ford",
+        "description": "Henry Ford founded the Ford Motors Company in 1903, in Detroit, Michigan.",
+        "fullDesc": "It is perfected the mass production of cars by introducing moving assembly lines. This gave him the edge to cut the cost and offer an affordable car to the American middle class.",
+        "price": 11,
+        "img": "https://i.ibb.co/3yF1Dsj/car-img9.png"
+    },
+    {
+        "id": 105,
+        "name": "HONDA",
+        "description": "Honda sold what was left of the company to Toyota",
+        "fullDesc": "Honda was named after its founder, Soichiro Honda. Honda originally founded the manufacturer Tōkai Seiki in 1937, which produced piston rings for Toyota.",
+        "price": 8,
+        "img": "https://i.ibb.co/3pRMRNp/car-img8.png"
+    },
+    {
+        "id": 106,
+        "name": "Mercedes",
+        "description": "The model contained a newly designed engine designated.",
+        "fullDesc": "Mercedes-Benz traces its origins to Karl Benz, who created the first internal combustion engine used in a car.",
+        "price": 11.5,
+        "img": "https://i.ibb.co/wpfSg2P/car-img7.png"
+    },
+    {
+        "id": 107,
+        "name": "Nissan",
+        "description": "The name 'Nissan' was an abbreviation used in the 1930s",
+        "fullDesc": "Aikawa entered the automobile business, and the following year, he incorporated the automobile division as a new subsidiary, which he named Nissan Motor Co., Ltd.",
+        "price": 8,
+        "img": "https://i.ibb.co/RPX1nKy/car-img6.png"
+    },
+    {
+        "id": 108,
+        "name": "Porsche",
+        "description": "Porsche is the majority shareholder in the Volkswagen family.",
+        "fullDesc": "Porsche car is named after its founder, Ferdinand Porsche, who started the company in 1931, in Stuttgart, Germany. Today,",
+        "price": 9,
+        "img": "https://i.ibb.co/wz1zBTc/car-img5.png"
+    },
+    {
+        "id": 109,
+        "name": "Rolls-Royce",
+        "description": " Royce Limited would manufacture a range of cars to be exclusively",
+        "fullDesc": "Automaker Henry Royce built his first motor car in 1904 and in May of that year met Charles Rolls, whose company sold quality cars in London.",
+        "price": 12,
+        "img": "https://i.ibb.co/740YJKf/car-img4.png"
+    },
+    {
+        "id": 110,
+        "name": "Toyota",
+        "description": "The company name was  to Toyota",
+        "fullDesc": "Toyota Motor Corporation was founded in 1937 by the Toyoda family. In Japanese, the word  takes ten pen strokes to write.",
+        "price": 8.5,
+        "img": "https://i.ibb.co/2Z0sPs1/car-img3.png"
+    },
+    {
+        "id": 111,
+        "name": "Volkswagen",
+        "description": " It was renamed simply Volkswagenwerk, or The People’s Car Company.",
+        "fullDesc": "which was originally called Gesellschaft zur Vorbereitung des Deutschen Volkswagens mbH (Company for the Manufacture of the German Peoples Car).",
+        "price": 8,
+        "img": "https://i.ibb.co/rmxDvYx/car-img2.png"
+    },
+    {
+        "id": 112,
+        "name": "Mitsubishi",
+        "description": "The name Mitsubishi refers to the company's three-diamond emblem.",
+        "fullDesc": "Mitsubishi officially started automobile operations in 1917, with the manufacturing of its Model A passenger car.",
+        "price": 9.4,
+        "img": "https://i.ibb.co/zhkNcKw/car-img1.jpg"
+    }
+]

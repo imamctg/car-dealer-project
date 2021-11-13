@@ -1,0 +1,48 @@
+.banner{
+  background-image: url(../../../images/bg3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+   
+}
+.banner-img img:hover{
+
+transition: 0.6s;
+transform:scale(1.5,1.5);
+}
+
+
+
+.banner h1{
+    color: white;
+    font-size: 80px;
+    line-height: 80px;
+    padding: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'poppins',sans-serif;
+}
+
+.banner h5{
+    color: whitesmoke;
+    font-weight: 600;
+    line-height: 30px;
+    padding: 15px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+.banner button{
+    background-color: blue;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+    color: white;
+}
+.banner button:hover{
+    
+transition: 0.6s;
+transform:scale(1.5,1.5);
+}

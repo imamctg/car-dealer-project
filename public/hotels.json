@@ -1,0 +1,44 @@
+[
+    {
+        "id": 51,
+        "name": "2021 Acura TLX Type S Review: A Sensory Joy",
+        "review": "Mitsubishi officially started automobile operations in 1917, with the manufacturing of its Model A passenger car.",
+        "img": "https://i.ibb.co/zhkNcKw/car-img1.jpg",
+        "ratting": 5
+    },
+    {
+        "id": 52,
+        "name": "2021 Ford Mustang Mach 1 Review: Good",
+        "review": "Some versions of the 2021 Ford Mustang Mach 1 don’t drive much differently from an optioned-up Mustang GT, but other Mach 1s could be quite transformative.",
+        "img": "https://i.ibb.co/rmxDvYx/car-img2.png",
+        "ratting": 5
+    },
+    {
+        "id": 53,
+        "name": "2021 Land Rover Defender Review: Tough Luxe",
+        "review": "The Defender delivers modern Land Rover SUV qualities, like impressive power and extensive off-road technology, in a distinctive shape that plays off the past.",
+        "img": "https://i.ibb.co/2Z0sPs1/car-img3.png",
+        "ratting": 5
+    },
+    {
+        "id": 54,
+        "name": "2022 Toyota Tundra Review: Better Where It Counts",
+        "review": "Redesigned at long last, the 2022 Toyota Tundra pickup truck prioritizes improvements for the many over novelties for the few.",
+        "img": "https://i.ibb.co/740YJKf/car-img4.png",
+        "ratting": 5
+    },
+    {
+        "id": 55,
+        "name": "2022 Mercedes-EQ EQS Review: Ze Germans Embrace ze Future",
+        "review": "Mercedes' first dedicated EV flagship, the 2022 EQS, is meant to set the tone for all future electric Mercedes — and it mostly succeeds.",
+        "img": "https://i.ibb.co/wz1zBTc/car-img5.png",
+        "ratting": 5
+    },
+    {
+        "id": 56,
+        "name": "2021 Porsche 911 Turbo Review: How to Successfully Maintain",
+        "review": "More a luxury grand tourer these days than a hardcore sports car, Porsche’s flagship 911 is still an amazing (and expensive) leather-lined beast.",
+        "img": "https://i.ibb.co/RPX1nKy/car-img6.png",
+        "ratting": 5
+    }
+]
